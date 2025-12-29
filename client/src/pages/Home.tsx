@@ -149,7 +149,7 @@ export default function Home() {
             <p className="text-gray-600 text-lg mb-4">
               شاهد المزيد من أعمالنا على Instagram
             </p>
-            <a href="https://www.instagram.com/alsayari_curtain/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/alsayaricurtainsandsofas/" target="_blank" rel="noopener noreferrer">
               <Button size="lg" variant="outline" className="gap-2">
                 <Instagram className="h-5 w-5" />
                 زيارة Instagram
@@ -183,7 +183,7 @@ export default function Home() {
               <MapPin className="h-12 w-12 text-amber-600 mx-auto mb-4" />
               <h4 className="text-xl font-semibold mb-2 text-gray-900">العنوان</h4>
               <p className="text-gray-600">
-                An Nasim Ash Sharqi
+                An Narjis
                 <br />
                 Riyadh 14243
                 <br />
